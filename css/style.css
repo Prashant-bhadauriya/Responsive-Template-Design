@@ -1,0 +1,23 @@
+body,html{
+    background: #1B2F33;
+    background-position:center;
+    display: block; 
+    max-width: 100%;
+    height: auto;
+    scroll-behavior: smooth
+}
+.about
+{
+    font-family: 'Mansalva', cursive;
+    
+}
+.it{
+    z-index: 1;
+    font-family: 'Mansalva', cursive;
+    top: 30%;
+    left: 20%;
+    justify-content: center;
+    align-items: center;
+    position: absolute;
+    color: azure;
+}
